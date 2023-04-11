@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'nokogumbo'
+gem 'nokogiri'
 gem 'html-proofer'
